@@ -1,0 +1,6 @@
+
+(** iCalendar library. *)
+
+type t
+
+
